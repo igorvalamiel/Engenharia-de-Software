@@ -1,0 +1,9 @@
+Nome do sistema: Baristando (barista turistando)
+
+Objetivo: Ter um website que mostra os locais, no mapa do Rio de Janeiro, que vendem café e com a classificação, por qualidade e por preço.
+
+Como funciona:
+ - Cada pessoa que for em algum lugar que venda café pode fazer uma dessas opções:
+  * Cadastrar um lugar novo
+  * Confirmar/contestar um lugar
+  * Votar no café
